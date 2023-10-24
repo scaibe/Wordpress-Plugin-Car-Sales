@@ -1,0 +1,2 @@
+#feature-metabox .inside { display: flex; flex-wrap: wrap; justify-content: space-between; }
+#feature-metabox .inside .wrapper-feature p:first-child { font-weight: bold;  }
